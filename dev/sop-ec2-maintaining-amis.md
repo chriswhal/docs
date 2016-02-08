@@ -1,4 +1,4 @@
-TITLE: Procedure for Maintaining Qualified AMIs in Amazon EC2
+**TITLE:** Procedure for Maintaining Qualified AMIs in Amazon EC2
 
 **1.0 PURPOSE:** This document establishes the {company name} procedures for maintaining qualified Amazon Machine Images (AMIs) in Amazon EC2.
 
