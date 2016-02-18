@@ -16,3 +16,5 @@
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
+
+keywords: sop, Amazon EC2, qualification
