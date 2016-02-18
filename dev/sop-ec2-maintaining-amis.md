@@ -4,9 +4,10 @@
 
 **2.0 SCOPE:** This document applies to
 
-2.1 All AMIs intended for {company name} systems classified as {system class}, and
+  2.1 All AMIs intended for {company name} systems classified as {system class}, and
 
-2.2 All authorized administrators of {company name}'s AWS account.
+  2.2 All authorized administrators of {company name}'s AWS account.
+  ![alt text](https://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/images/compute_architecture.png "Logo Title Text 1")
 
 **3.0 RESPONSIBILITIES:**
 
