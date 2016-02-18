@@ -10,3 +10,5 @@
   - [ ] yes
   - [ ] no
   - [x] maybe
+
+keywords: sop, test
