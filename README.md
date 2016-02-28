@@ -1,2 +1,2 @@
 # docs
-A test for doc control on git
+Docs is a test git repo for open source policy and procedure documents. 
