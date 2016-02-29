@@ -1,4 +1,7 @@
-# testing
+# SDI Qualification
+
+Install = create OR instantiate
+
 
 1. try something new
 2. do it over and over again
