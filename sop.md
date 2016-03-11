@@ -9,5 +9,5 @@ This document applies to all SOPs in the repo.
 ##RESPONSIBILITIES
 | Group  | Responsibilities |
 | ------------- | ------------- |
-| Quality  | * maintain this document  |
-| Security  | * follow this document  |
+| Quality  | - maintain this document  |
+| Security  | - follow this document  |
