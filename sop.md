@@ -7,7 +7,8 @@ Last updated: 2/22/2016 10:06:33 AM
 | Content Cell  | Content Cell  |
 
 ##PURPOSE
+This document explains how to create standard operating procedures using Github.
 
-SCOPE
+##SCOPE
 
-RESPONSIBILITIES
+##RESPONSIBILITIES
