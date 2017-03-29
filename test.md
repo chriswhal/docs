@@ -1,3 +1,32 @@
+# APN Global Complance Plan 2017
+
+## industry
+* healthcare
+* medical products
+* financial services
+* transportation
+* aerospace
+* banking
+* e-commerce
+* energy
+* defense
+* law enforcement
+
+## regions
+* amer
+* apac
+* china
+* emea
+* latam
+* govcloud
+
+## resources
+* modernize IT policies
+* assess IT suppliers
+* establish IT agreements
+* operate IT systems
+
+
 # SDI Qualification
 
 Install = create OR instantiate
