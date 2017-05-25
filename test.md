@@ -26,22 +26,15 @@
 * establish IT agreements
 * operate IT systems
 
+## activities
+| Proj  | Desc   | Vert  |
+|---|---|---|
+|  Policy Library | launch a partner library of cloud-ready compliance policy & procedure templates  | All  |
+| IQ Protocols  |  create a series of  |  HCLS |
+| Auto-qual  |   | HCLS  |
+| eLearning  |   | HCLS  |
+| FDA/ETT   |   | HCLS  |
+| Engagements |   |  All |
 
-# SDI Qualification
-
-Install = create OR instantiate
-
-
-1. try something new
-2. do it over and over again
-  - do
-  - over
-  - again2. do it better
-3. what else?
-4. I'm not sure
-  - [ ] yes
-  - [ ] no
-  - [x] maybe
-5. put a ring on it
 ![bulb]({{site.baseurl}}//Caduceus-Bulb.jpg)
 keywords: sop, test
